@@ -3,15 +3,15 @@
 This notebook allows you to **generate uncensored images** from text prompts using the `runwayml/stable-diffusion-v1-5` model — **no API key required**.
 
 ---
-
 ## 🚀 How to Run
 
 > **Recommended:** Use [Google Colab](https://colab.research.google.com/) for faster GPU-accelerated execution.
 
-1. Open the notebook in **Google Colab**.
+1. Open the **`Text_to_img.ipynb`** notebook in **Google Colab**.
 2. Run all cells (you may be prompted to allow access to Google Drive if saving outputs).
 3. If prompted for **authentication**, enter your [Hugging Face token](https://huggingface.co/settings/tokens).
 
+⚠️ Only run the `Text_to_img.ipynb` file — other files are not required for image generation.
 ---
 
 ## ✅ Features
